@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>H2 Physics Revision for Exam</title>
+<link rel="icon" href="./atom_icon.ico" type="image/x-icon">
+    
+    <style>
+        .tab-content {
+            display: none;
+        }
+
+        .active {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <select id="menu">
+        <option value="section1">About</option>
+        <option value="section2">Measurement</option>
+        <option value="section3">Kinematics</option>
+        <option value="section4">Dynamics</option>
+        <option value="section5">Forces</option>
+        <option value="section6">Work, Energy, Power</option>
+    </select>
+
+    <div id="section1" class="tab-content active">
+        <h2>H2 Physics (9749) Revision </h2>
+       <object data="h2physics.svg" width="400" > </object>
+        <p>A set of concept maps of all topics prepared by me.  I hope it is useful for your revision purpose. You will also find topical multiple choice and structured question taken from JC Prelim past year exam papers. </p>
+  <p>I am also available for H2 Physics consultation via zoom.  I am ex-MOE teacher who taught many years at a JC. </p>
+<p><a href="mailto:jlow2109@gmail.com">Email</a></p>
+    </div>
+
+    <div id="section2" class="tab-content">
+        <h2>Measurement</h2>
+     <object data="measurement.svg" width="600" > </object>
+  
+
+<p>  <a href="./mcq-measurement-2021-student.pdf" target="_blank">Multiple Choice Questions Practice</a> </p>
+
+<p>  <a href="./structured-measurement-2021-student.pdf" target="_blank">Structured Questions Practice</a> </p>
+
+
+
+    </div>
+
+  <div id="section3" class="tab-content">
+        <h2>Kinematics</h2>
+     <object data="kinematics.svg" width="600" > </object>
+
+<p>  <a href="./mcq-kinematics-2021-student.pdf" target="_blank">Multiple Choice Questions Practice</a> </p>
+
+<p>  <a href="./structured-kinematics-2021-student.pdf" target="_blank">Structured Questions Practice</a> </p>
+
+
+    </div>
+
+  <div id="section4" class="tab-content">
+        <h2>Dynamics</h2>
+     <object data="dynamics.svg" width="600" > </object>
+
+<p>  <a href="./mcq-dynamics-2021-student.pdf" target="_blank">Multiple Choice Questions Practice</a> </p>
+
+<p>  <a href="./structured-dynamics-2021-student.pdf" target="_blank">Structured Questions Practice</a> </p>
+
+
+    </div>
+
+
+
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const menu = document.getElementById("menu");
+            const tabContents = document.querySelectorAll(".tab-content");
+
+            // Show the initial active section
+            tabContents[0].classList.add("active");
+
+            menu.addEventListener("change", function () {
+                const selectedSection = this.value;
+                tabContents.forEach((content) => {
+                    content.classList.remove("active");
+                });
+                document.getElementById(selectedSection).classList.add("active");
+            });
+        });
+    </script>
+
+<p>Footer</p>
+</body>
+</html>
