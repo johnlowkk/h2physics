@@ -45,32 +45,7 @@
      stroke-miterlimit="10"
      stroke-linecap="square"
      id="g402">
-    <g
-       fill-opacity="1"
-       fill-rule="nonzero"
-       stroke="none"
-       fill="#ffffff"
-       id="g1">
-      <path
-         d="M 0 0 L 691 0 L 691 483 L 0 483 L 0 0 z"
-         id="path1" />
-    </g>
     <!-- drawing style -->
-    <g
-       transform="matrix(1, 0, 0, 1, -91, -144)"
-       id="g3">
-      <g
-         fill-opacity="1"
-         fill-rule="nonzero"
-         stroke="none"
-         fill="#ffffff"
-         id="g2">
-        <path
-           d="M 0 0 L 825 0 L 825 670 L 0 670 L 0 0 z"
-           id="path2" />
-      </g>
-      <!-- drawing style -->
-    </g>
     <!-- transform -->
     <g
        transform="matrix(1, 0, 0, 1, -91, -144)"

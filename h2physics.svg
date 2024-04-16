@@ -25,12 +25,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.9501868"
-     inkscape:cx="287.31193"
+     inkscape:cx="286.78571"
      inkscape:cy="417.81258"
-     inkscape:window-width="1339"
+     inkscape:window-width="1630"
      inkscape:window-height="988"
      inkscape:window-x="84"
-     inkscape:window-y="21"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg334" />
   <title
@@ -45,32 +45,7 @@
      stroke-miterlimit="10"
      stroke-linecap="square"
      id="g334">
-    <g
-       fill-opacity="1"
-       fill-rule="nonzero"
-       stroke="none"
-       fill="#ffffff"
-       id="g1">
-      <path
-         d="M 0 0 L 803 0 L 803 667 L 0 667 L 0 0 z"
-         id="path1" />
-    </g>
     <!-- drawing style -->
-    <g
-       transform="matrix(1, 0, 0, 1, 0, -113)"
-       id="g3">
-      <g
-         fill-opacity="1"
-         fill-rule="nonzero"
-         stroke="none"
-         fill="#ffffff"
-         id="g2">
-        <path
-           d="M 0 0 L 845 0 L 845 823 L 0 823 L 0 0 z"
-           id="path2" />
-      </g>
-      <!-- drawing style -->
-    </g>
     <!-- transform -->
     <g
        transform="matrix(1, 0, 0, 1, 0, -113)"

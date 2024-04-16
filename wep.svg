@@ -25,12 +25,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.528"
-     inkscape:cx="316.75393"
-     inkscape:cy="145.61518"
+     inkscape:cx="317.08115"
+     inkscape:cy="144.96073"
      inkscape:window-width="1573"
      inkscape:window-height="911"
-     inkscape:window-x="338"
-     inkscape:window-y="37"
+     inkscape:window-x="274"
+     inkscape:window-y="75"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg318" />
   <title
@@ -45,32 +45,7 @@
      stroke-miterlimit="10"
      stroke-linecap="square"
      id="g318">
-    <g
-       fill-opacity="1"
-       fill-rule="nonzero"
-       stroke="none"
-       fill="#ffffff"
-       id="g1">
-      <path
-         d="M 0 0 L 581 0 L 581 500 L 0 500 L 0 0 z"
-         id="path1" />
-    </g>
     <!-- drawing style -->
-    <g
-       transform="matrix(1, 0, 0, 1, -54, -30)"
-       id="g3">
-      <g
-         fill-opacity="1"
-         fill-rule="nonzero"
-         stroke="none"
-         fill="#ffffff"
-         id="g2">
-        <path
-           d="M 0 0 L 679 0 L 679 573 L 0 573 L 0 0 z"
-           id="path2" />
-      </g>
-      <!-- drawing style -->
-    </g>
     <!-- transform -->
     <g
        transform="matrix(1, 0, 0, 1, -54, -30)"
@@ -2541,10 +2516,11 @@ change in energy (e.g. KE, GPE, EPE) of system </title>
   <rect
      style="opacity:0.997;fill:#3e51da;fill-opacity:0.0844156;stroke:#1f2125;stroke-width:0;stroke-opacity:0.746736"
      id="rect319"
-     width="77.225128"
+     width="77.224998"
      height="24.214659"
      x="149.21466"
-     y="172.77487">
+     y="172.77487"
+     inkscape:label="rect319">
     <title
        id="title319">Work done by a force is the product of the 
 force and the displacement in the 

@@ -57,7 +57,7 @@
      inkscape:window-x="111"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg278" />
+     inkscape:current-layer="g278" />
   <title
      id="title1" />
   <desc
@@ -70,32 +70,7 @@
      stroke-miterlimit="10"
      stroke-linecap="square"
      id="g278">
-    <g
-       fill-opacity="1"
-       fill-rule="nonzero"
-       stroke="none"
-       fill="#ffffff"
-       id="g1">
-      <path
-         d="M 0 0 L 799 0 L 799 354 L 0 354 L 0 0 z"
-         id="path1" />
-    </g>
     <!-- drawing style -->
-    <g
-       transform="matrix(1, 0, 0, 1, -99, -61)"
-       id="g3">
-      <g
-         fill-opacity="1"
-         fill-rule="nonzero"
-         stroke="none"
-         fill="#ffffff"
-         id="g2">
-        <path
-           d="M 0 0 L 960 0 L 960 544 L 0 544 L 0 0 z"
-           id="path2" />
-      </g>
-      <!-- drawing style -->
-    </g>
     <!-- transform -->
     <g
        transform="matrix(1, 0, 0, 1, -99, -61)"
@@ -2274,15 +2249,16 @@ Resistance
      x="175.26451"
      y="37.802151">
     <title
-       id="title280">Base quantities are physical quantities that are the most fundamental and they are independent of each other.  
+       id="title280">Base quantities are physical quantities that 
+are the most fundamental and they are 
+independent of each other.  
 Length
 Mass
 Time
 Amount of substance
 Temperature
 Current
-*Luminous intensity
-</title>
+*Luminous intensity</title>
   </rect>
   <rect
      style="opacity:0.887;fill:#000000;fill-opacity:0.0693878"
@@ -2309,8 +2285,10 @@ Ohm	Ω	kg m² sˉ³ Aˉ²</title>
      x="242.27742"
      y="318.74088">
     <title
-       id="title282">An equation is homogeneous if every term on both sides of the equation have the same SI base units.  
-A physically correct equation must be homogeneous!</title>
+       id="title282">An equation is homogeneous if every term on 
+both sides of the equation have the same 
+SI base units. A physically correct equation 
+must be homogeneous!</title>
   </rect>
   <rect
      style="opacity:0.887;fill:#000000;fill-opacity:0.0693878"
@@ -2320,7 +2298,9 @@ A physically correct equation must be homogeneous!</title>
      x="75.604301"
      y="278.3613">
     <title
-       id="title283">When making an estimate, it is only reasonable to give the figure to 1 significant figure since an estimate is not very precise.</title>
+       id="title283">When making an estimate, it is only reasonable 
+to give the figure to 1 significant figure 
+since an estimate is not very precise.</title>
   </rect>
   <rect
      style="opacity:0.887;fill:#000000;fill-opacity:0.0693878"
@@ -2330,7 +2310,8 @@ A physically correct equation must be homogeneous!</title>
      x="169.25053"
      y="128.01183">
     <title
-       id="title284">scientifically measurable physical quantity has a numerical magnitude and a unit!</title>
+       id="title284">A scientifically measurable physical quantity 
+has a numerical magnitude and a unit</title>
   </rect>
   <rect
      style="opacity:0.887;fill:#000000;fill-opacity:0.0693878"
@@ -2340,10 +2321,10 @@ A physically correct equation must be homogeneous!</title>
      x="398.64087"
      y="140.03978">
     <title
-       id="title285">Error is the difference between the measured value and the ‘true value’. 
-
-Sources of errors can come from man, machine, material, experimental technique or environment.
-</title>
+       id="title285">Error is the difference between the 
+measured value and the ‘true value’. 
+Sources of errors can come from man, machine,
+material, experimental technique or environment.</title>
   </rect>
   <rect
      style="opacity:0.887;fill:#000000;fill-opacity:0.0693878"
@@ -2353,10 +2334,13 @@ Sources of errors can come from man, machine, material, experimental technique o
      x="515.48389"
      y="123.71613">
     <title
-       id="title286">Random error is an error which causes measurements to be sometimes 
-larger than the true value and sometimes smaller than the true value.  
+       id="title286">Random error is an error which causes 
+measurements to be sometimes 
+larger than the true value and 
+sometimes smaller than the true value.  
 Reduce by 
--repeating the measurements to obtain an average value. 
+-repeating the measurements to obtain 
+an average value. 
 -plot a graph to obtain best fit line.</title>
   </rect>
   <rect
@@ -2367,12 +2351,14 @@ Reduce by
      x="508.61075"
      y="169.25053">
     <title
-       id="title287">Systematic error is an error which causes measurements to be either, 
-always larger than the true value, or always smaller than the true value.
--Zero error of an instrument. 
+       id="title287">Systematic error is an error which causes 
+measurements to be either, always larger 
+than the true value, or always smaller 
+than the true value.
+-Zero error or 
 -Incorrectly calibrated instrument 
 -Using the wrong constant 
--Incorrect experim</title>
+-wrong expt method</title>
   </rect>
   <rect
      style="opacity:0.887;fill:#000000;fill-opacity:0.0693878"
@@ -2382,7 +2368,9 @@ always larger than the true value, or always smaller than the true value.
      x="465.65378"
      y="257.74194">
     <title
-       id="title290">Precision refers to the degree of agreement (scatter, spread) of repeated measurements of the same quantity. </title>
+       id="title290">Precision refers to the degree of agreement 
+(scatter, spread) of repeated measurements 
+of the same quantity. </title>
   </rect>
   <rect
      style="opacity:0.887;fill:#000000;fill-opacity:0.0693878"
@@ -2392,7 +2380,9 @@ always larger than the true value, or always smaller than the true value.
      x="494.00537"
      y="213.92581">
     <title
-       id="title289">Accuracy refers to the degree of agreement between the result of measurement(s) and the true value of the quantity.</title>
+       id="title289">Accuracy refers to the degree of agreement 
+between the result of measurement(s) and 
+the true value of the quantity.</title>
   </rect>
   <rect
      style="opacity:0.887;fill:#000000;fill-opacity:0.0693878"
@@ -2424,7 +2414,9 @@ always larger than the true value, or always smaller than the true value.
      x="403.79568"
      y="317.02258">
     <title
-       id="title293">A scalar quantity has a magnitude only. It does not have a direction. It is completely described by a numerical value and a unit.  </title>
+       id="title293"> A scalar quantity has a magnitude only. 
+It does not have a direction. It is completely 
+described by a numerical value and a unit. </title>
   </rect>
   <rect
      style="opacity:0.887;fill:#000000;fill-opacity:0.0693878"
